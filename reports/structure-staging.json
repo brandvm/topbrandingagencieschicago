@@ -5,35 +5,35 @@
       "page": "/404.html",
       "cssGzipBytes": 4379,
       "fontBytes": 67316,
-      "javascriptGzipBytes": 15457,
+      "javascriptGzipBytes": 15468,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
       "cssGzipBytes": 4379,
       "fontBytes": 67316,
-      "javascriptGzipBytes": 15457,
+      "javascriptGzipBytes": 15468,
       "profiles": 0
     },
     {
-      "page": "/blog/top-corporate-branding-agencies-chicago/index.html",
+      "page": "/corporate/index.html",
       "cssGzipBytes": 4379,
       "fontBytes": 67316,
-      "javascriptGzipBytes": 15457,
-      "profiles": 10
-    },
-    {
-      "page": "/blog/top-logo-design-agencies-chicago/index.html",
-      "cssGzipBytes": 4379,
-      "fontBytes": 67316,
-      "javascriptGzipBytes": 15457,
+      "javascriptGzipBytes": 15468,
       "profiles": 10
     },
     {
       "page": "/index.html",
       "cssGzipBytes": 4379,
       "fontBytes": 67316,
-      "javascriptGzipBytes": 15457,
+      "javascriptGzipBytes": 15468,
+      "profiles": 10
+    },
+    {
+      "page": "/logo-design/index.html",
+      "cssGzipBytes": 4379,
+      "fontBytes": 67316,
+      "javascriptGzipBytes": 15468,
       "profiles": 10
     }
   ]

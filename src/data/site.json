@@ -32,5 +32,10 @@
       "slug": "top-corporate-branding-agencies-chicago",
       "label": "Corporate branding"
     }
-  ]
+  ],
+  "articlePaths": {
+    "top-branding-agencies-chicago": "/",
+    "top-logo-design-agencies-chicago": "/logo-design/",
+    "top-corporate-branding-agencies-chicago": "/corporate/"
+  }
 }

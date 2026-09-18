@@ -16,14 +16,7 @@
       "profiles": 0
     },
     {
-      "page": "/blog/top-corporate-branding-agencies-chicago/index.html",
-      "cssGzipBytes": 3407,
-      "fontBytes": 67316,
-      "javascriptGzipBytes": 0,
-      "profiles": 10
-    },
-    {
-      "page": "/blog/top-logo-design-agencies-chicago/index.html",
+      "page": "/corporate/index.html",
       "cssGzipBytes": 3407,
       "fontBytes": 67316,
       "javascriptGzipBytes": 0,
@@ -31,6 +24,13 @@
     },
     {
       "page": "/index.html",
+      "cssGzipBytes": 3407,
+      "fontBytes": 67316,
+      "javascriptGzipBytes": 0,
+      "profiles": 10
+    },
+    {
+      "page": "/logo-design/index.html",
       "cssGzipBytes": 3407,
       "fontBytes": 67316,
       "javascriptGzipBytes": 0,
