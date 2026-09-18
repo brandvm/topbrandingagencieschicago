@@ -1,0 +1,47 @@
+{
+  "environment": "cloudflare-staging",
+  "pages": [
+    {
+      "page": "/404.html",
+      "cssGzipBytes": 3977,
+      "fontBytes": 66224,
+      "javascriptBytes": 0,
+      "profiles": 0
+    },
+    {
+      "page": "/blog/index.html",
+      "cssGzipBytes": 3977,
+      "fontBytes": 66224,
+      "javascriptBytes": 0,
+      "profiles": 0
+    },
+    {
+      "page": "/blog/top-branding-agencies-chicago/index.html",
+      "cssGzipBytes": 3977,
+      "fontBytes": 66224,
+      "javascriptBytes": 0,
+      "profiles": 10
+    },
+    {
+      "page": "/blog/top-corporate-branding-agencies-chicago/index.html",
+      "cssGzipBytes": 3977,
+      "fontBytes": 66224,
+      "javascriptBytes": 0,
+      "profiles": 10
+    },
+    {
+      "page": "/blog/top-logo-design-agencies-chicago/index.html",
+      "cssGzipBytes": 3977,
+      "fontBytes": 66224,
+      "javascriptBytes": 0,
+      "profiles": 10
+    },
+    {
+      "page": "/index.html",
+      "cssGzipBytes": 3977,
+      "fontBytes": 66224,
+      "javascriptBytes": 0,
+      "profiles": 0
+    }
+  ]
+}

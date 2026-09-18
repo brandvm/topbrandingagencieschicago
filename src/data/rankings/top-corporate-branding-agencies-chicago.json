@@ -1,0 +1,222 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "EST",
+    "Locations",
+    "Min. Budget",
+    "Focus",
+    "Score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Chicago; Toronto; San Francisco; Miami",
+        "$10,000+",
+        "Brand strategy, corporate identity, naming, websites, UX/UI.",
+        "9.4/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; Toronto; San Francisco; Miami</strong> | <strong>Est. 2018</strong> | <strong>Budget: $10,000+<br>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5</strong>* | DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Flipp, First Horizon Bank / FHN Financial, TeraWulf, Roncelli, and Safeway Business (Albertsons)."
+      ]
+    },
+    {
+      "id": "agency-monogramgroup",
+      "name": "MonogramGroup",
+      "heading": "2. MonogramGroup",
+      "cells": [
+        "2",
+        "MonogramGroup",
+        "1990",
+        "Chicago; Charlotte area; Toronto; Colorado",
+        "$10,000+",
+        "Private equity branding, brand architecture, acquisition integration, brand messaging.",
+        "9.3/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; Charlotte area; Toronto; Colorado</strong> | <strong>Est. 1990</strong> | <strong>Budget: $10,000+<br>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> I Squared, Sensata, Comprehensive Logistics, Aeromax, and Upchurch."
+      ]
+    },
+    {
+      "id": "agency-vsa-partners",
+      "name": "VSA Partners",
+      "heading": "3. VSA Partners",
+      "cells": [
+        "3",
+        "VSA Partners",
+        "1982",
+        "Chicago; New York",
+        "$100,000+",
+        "Enterprise strategy, brand systems, corporate identity, employee engagement.",
+        "9.2/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; New York</strong> | <strong>Est. 1982</strong> | <strong>Budget: $100,000+<br>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> Google Cloud, BNY, Nike, Northern Trust, and Sappi."
+      ]
+    },
+    {
+      "id": "agency-mabbly",
+      "name": "Mabbly",
+      "heading": "4. Mabbly",
+      "cells": [
+        "4",
+        "Mabbly",
+        "2013",
+        "Chicago",
+        "$25,000+",
+        "Research-led positioning, identity, digital experiences, go-to-market strategy.",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago</strong> | <strong>Est. 2013</strong> | <strong>Budget: $25,000+<br>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.5/5</strong>* | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> Workiva, Microsoft, Griffith Foods, The Lactation Network, and TIGER 21."
+      ]
+    },
+    {
+      "id": "agency-batesmeron-sweet-design",
+      "name": "BatesMeron Sweet Design",
+      "heading": "5. BatesMeron Sweet Design",
+      "cells": [
+        "5",
+        "BatesMeron Sweet Design",
+        "2005",
+        "Chicago",
+        "$10,000+",
+        "Naming, messaging, visual identity, websites, marketing materials.",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago</strong> | <strong>Est. 2005</strong> | <strong>Budget: $10,000+<br>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>5.0/5</strong>* | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> GoNoodle, Sability, Chicago International Charter School, and Meridian Charter Schools."
+      ]
+    },
+    {
+      "id": "agency-conjure",
+      "name": "Conjure",
+      "heading": "6. Conjure",
+      "cells": [
+        "6",
+        "Conjure",
+        "1996",
+        "Chicago",
+        "$10,000+",
+        "Brand strategy, storytelling, corporate identity, digital and motion design.",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago</strong> | <strong>Est. 1996</strong> | <strong>Budget: $10,000+<br>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> Sodexo, The Walsh Group, The Hartford, JAMA Network, and Billerud."
+      ]
+    },
+    {
+      "id": "agency-cultivate-brands",
+      "name": "Cultivate Brands",
+      "heading": "7. Cultivate Brands",
+      "cells": [
+        "7",
+        "Cultivate Brands",
+        "2005",
+        "Chicago; Bozeman, Montana",
+        "$25,000+",
+        "Brand development, verbal and visual identity, websites, digital products.",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; Bozeman, Montana</strong> | <strong>Est. 2005</strong> | <strong>Budget: $25,000+<br>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.0/5</strong>* | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> Ozinga, ProWood, Skender, Rademann Stone, and MTM Trailer Manufacturing."
+      ]
+    },
+    {
+      "id": "agency-colorjar",
+      "name": "ColorJar",
+      "heading": "8. ColorJar",
+      "cells": [
+        "8",
+        "ColorJar",
+        "2008",
+        "Chicago",
+        "$25,000+",
+        "Brand revitalization, positioning, naming, identity, customer-facing applications.",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago</strong> | <strong>Est. 2008</strong> | <strong>Budget: $25,000+<br>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> CBRE, Navy Pier, The Second City, Lettuce Entertain You, and Blue Plate."
+      ]
+    },
+    {
+      "id": "agency-pivot-design",
+      "name": "Pivot Design",
+      "heading": "9. Pivot Design",
+      "cells": [
+        "9",
+        "Pivot Design",
+        "1992",
+        "Chicago",
+        "$10,000+",
+        "Healthcare branding, corporate identity, brand architecture, messaging.",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago</strong> | <strong>Est. 1992</strong> | <strong>Budget: $10,000+<br>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.1/5</strong>* | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> Abbott, AbbVie, Amgen, Novo Nordisk, and Takeda."
+      ]
+    },
+    {
+      "id": "agency-simple-truth",
+      "name": "Simple Truth",
+      "heading": "10. Simple Truth",
+      "cells": [
+        "10",
+        "Simple Truth",
+        "1996",
+        "Chicago",
+        "$25,000+",
+        "Positioning, naming, messaging, corporate identity, internal brand engagement.",
+        "8.5/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago</strong> | <strong>Est. 1996</strong> | <strong>Budget: $25,000+<br>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.3/5</strong>* | DesignRush: <strong>No native rating shown</strong>.",
+        "<strong>Clients:</strong> Allstate, Alegeus, Northern Arizona University, and Argo Translations."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Your situation</strong>",
+      "<strong>Best-fit agency</strong>",
+      "<strong>Why it fits</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best Overall Pick</strong>",
+        "<strong>Brand Vision</strong>",
+        "Our highest estimated overall score, balancing brand strategy, digital delivery, client feedback, and its published starting budget."
+      ],
+      [
+        "<strong>Corporate rebrand and website redesign together</strong>",
+        "<strong>Brand Vision</strong>",
+        "Its documented work connects identity development with website design and implementation."
+      ],
+      [
+        "<strong>Private equity acquisition or portfolio consolidation</strong>",
+        "<strong>MonogramGroup</strong>",
+        "A focused offering for investment firms and portfolio companies navigating brand alignment and growth."
+      ],
+      [
+        "<strong>Enterprise brand system across divisions and markets</strong>",
+        "<strong>VSA Partners</strong>",
+        "Enterprise experience spanning brand strategy, identity systems, campaigns, and employee engagement."
+      ]
+    ]
+  }
+}

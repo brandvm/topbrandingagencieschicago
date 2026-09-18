@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "EST",
+    "Locations",
+    "Min. Budget",
+    "Focus",
+    "Editorial Score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Chicago; Toronto, Canada; San Francisco; Miami",
+        "$10,000+",
+        "Brand strategy, visual identity, naming, integrated web design.",
+        "9.4/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; Toronto, Canada; San Francisco; Miami | Est. 2018 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5*</strong> (Toronto listing) | DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Flipp, First Horizon Bank, TeraWulf, Roncelli, Safeway (Albertsons)."
+      ]
+    },
+    {
+      "id": "agency-vsa-partners",
+      "name": "VSA Partners",
+      "heading": "2. VSA Partners",
+      "cells": [
+        "2",
+        "VSA Partners",
+        "1982",
+        "Chicago; New York",
+        "$100,000+",
+        "Brand architecture, brand identity systems, campaigns, enterprise brand experiences.",
+        "9.2/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; New York | Est. 1982 | Budget: $100,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>5.0/5*</strong> | DesignRush: <strong>No native rating displayed</strong>.",
+        "<strong>Clients:</strong> Google, IBM, Nike, Harley-Davidson, McDonald’s."
+      ]
+    },
+    {
+      "id": "agency-fifty-thousand-feet",
+      "name": "Fifty Thousand Feet",
+      "heading": "3. Fifty Thousand Feet",
+      "cells": [
+        "3",
+        "Fifty Thousand Feet",
+        "2001",
+        "Chicago; New York; Washington, DC; London, UK",
+        "Not publicly disclosed",
+        "Brand positioning, identity, storytelling, premium brand experiences.",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; New York; Washington, DC; London, UK | Est. 2001 | Budget: Not publicly disclosed</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not verified</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>No native rating displayed</strong>.",
+        "<strong>Clients:</strong> BMW, Mastercard, Sony, Abbott, Boston Consulting Group."
+      ]
+    },
+    {
+      "id": "agency-monogramgroup",
+      "name": "MonogramGroup",
+      "heading": "4. MonogramGroup",
+      "cells": [
+        "4",
+        "MonogramGroup",
+        "1990",
+        "Chicago; Davidson, North Carolina",
+        "$10,000+",
+        "Private equity branding, portfolio company positioning, brand integration.",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; Davidson, North Carolina | Est. 1990 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> Comprehensive Logistics, Aeromax, I Squared, B-O-F, Upchurch."
+      ]
+    },
+    {
+      "id": "agency-colorjar",
+      "name": "ColorJar",
+      "heading": "5. ColorJar",
+      "cells": [
+        "5",
+        "ColorJar",
+        "2008",
+        "Chicago",
+        "$25,000+",
+        "Brand reinvention, brand identity, packaging, hospitality and destination branding.",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago | Est. 2008 | Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>No native rating displayed</strong>.",
+        "<strong>Clients:</strong> Navy Pier, The Second City, Lettuce Entertain You, GoodBelly, Manny’s Deli."
+      ]
+    },
+    {
+      "id": "agency-landor",
+      "name": "Landor",
+      "heading": "6. Landor",
+      "cells": [
+        "6",
+        "Landor",
+        "1941",
+        "Chicago; global network including New York, San Francisco, Toronto, and London",
+        "No confirmed public minimum",
+        "Global brand strategy, architecture, identity, customer and employee experiences.",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago; global office network | Est. 1941 | Budget: No confirmed public minimum</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not verified</strong> | Google, Chicago office: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>",
+        "<strong>Clients:</strong> Volkswagen Group, Nike, Kellogg’s, Walmart, M&amp;M’s."
+      ]
+    },
+    {
+      "id": "agency-mabbly",
+      "name": "Mabbly",
+      "heading": "7. Mabbly",
+      "cells": [
+        "7",
+        "Mabbly",
+        "2013",
+        "Chicago",
+        "$25,000+",
+        "Brand strategy, go-to-market planning, digital experiences, marketing and sales.",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago | Est. 2013 | Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.5/5*</strong> | DesignRush: <strong>No native rating displayed</strong>.",
+        "<strong>Clients:</strong> Workiva, Griffith Foods, The Lactation Network, Verano, TIGER 21."
+      ]
+    },
+    {
+      "id": "agency-pivot-design",
+      "name": "Pivot Design",
+      "heading": "8. Pivot Design",
+      "cells": [
+        "8",
+        "Pivot Design",
+        "1992",
+        "Chicago",
+        "$10,000+",
+        "Healthcare branding, corporate identity, patient and provider communications.",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago | Est. 1992 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.1/5*</strong> | DesignRush: <strong>No native rating displayed</strong>.",
+        "<strong>Clients:</strong> Astellas, Takeda, Lantheus, Arcutis Biotherapeutics, Akay Bioactives."
+      ]
+    },
+    {
+      "id": "agency-design-b-b",
+      "name": "Design B&B",
+      "heading": "9. Design B&B",
+      "cells": [
+        "9",
+        "Design B&B",
+        "2015",
+        "Chicago",
+        "Custom quote",
+        "Consumer brand strategy, identity, packaging, brand activation.",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago | Est. 2015 | Budget: Custom quote</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not verified</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>",
+        "<strong>Clients:</strong> Eggo, Kleenex, Simple Mills, Naked, Town House."
+      ]
+    },
+    {
+      "id": "agency-someoddpilot",
+      "name": "Someoddpilot",
+      "heading": "10. Someoddpilot",
+      "cells": [
+        "10",
+        "Someoddpilot",
+        "1999",
+        "Chicago",
+        "$10,000+",
+        "Culture-led branding, creative campaigns, photography, video production.",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 <strong>Chicago | Est. 1999 | Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not yet rated</strong> | Google: <strong>5.0/5*</strong> | DesignRush: <strong>No native rating displayed</strong>.",
+        "<strong>Clients:</strong> Patagonia, Chaco, Saucony, Lollapalooza, Chicago Fire FC."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Buyer Situation</strong>",
+      "<strong>Best-Fit Agency</strong>",
+      "<strong>Why</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best Overall Pick</strong>",
+        "<strong>Brand Vision</strong>",
+        "Our preferred combination of an accessible published entry point, strong client ratings, and connected branding and website capabilities."
+      ],
+      [
+        "<strong>Rebrand and website launch under one partner</strong>",
+        "<strong>Brand Vision</strong>",
+        "Its portfolio includes engagements combining positioning, branding, web design, and development."
+      ],
+      [
+        "<strong>Private equity acquisition or portfolio repositioning</strong>",
+        "<strong>MonogramGroup</strong>",
+        "A concentrated practice serving private equity firms and portfolio companies."
+      ],
+      [
+        "<strong>Consumer product identity and packaging refresh</strong>",
+        "<strong>Design B&amp;B</strong>",
+        "Relevant packaging and identity work for brands including Eggo, Simple Mills, and Town House."
+      ]
+    ]
+  }
+}

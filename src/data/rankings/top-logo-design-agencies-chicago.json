@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "#",
+    "Agency",
+    "EST",
+    "Locations",
+    "Min. Budget",
+    "Focus",
+    "Score"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1. Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Chicago, San Francisco and Miami, US; Toronto, Canada",
+        "$10,000+",
+        "Logo design, brand strategy, visual identity and websites.",
+        "9.4/10"
+      ],
+      "facts": [
+        "📍 Chicago, San Francisco and Miami, US; Toronto, Canada | <strong>Est. 2018</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.9/5</strong> (Toronto listing) | DesignRush: <strong>4.8/5</strong>.",
+        "<strong>Clients:</strong> Flipp, First Horizon Bank, TeraWulf, Roncelli and Safeway Business (Albertsons Companies)."
+      ]
+    },
+    {
+      "id": "agency-artversion",
+      "name": "ArtVersion",
+      "heading": "2. ArtVersion",
+      "cells": [
+        "2",
+        "ArtVersion",
+        "1999",
+        "Chicago and Northbrook, Illinois, US",
+        "$10,000+",
+        "Corporate identity, graphic design, UX/UI and websites.",
+        "9.3/10"
+      ],
+      "facts": [
+        "📍 Chicago and Northbrook, Illinois, US | <strong>Est. 1999</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>5.0/5</strong> | DesignRush: <strong>4.6/5</strong>.",
+        "<strong>Clients:</strong> Aiwa, Volvo, Hilton, Caterpillar and Mack Trucks."
+      ]
+    },
+    {
+      "id": "agency-monogramgroup",
+      "name": "MonogramGroup",
+      "heading": "3. MonogramGroup",
+      "cells": [
+        "3",
+        "MonogramGroup",
+        "1990",
+        "Chicago, Charlotte and Colorado, US; Toronto, Canada",
+        "$10,000+",
+        "Corporate branding, private equity rebrands and visual identity.",
+        "9.2/10"
+      ],
+      "facts": [
+        "📍 Chicago, Charlotte and Colorado, US; Toronto, Canada | <strong>Est. 1990</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not verified</strong>.",
+        "<strong>Clients:</strong> Aeromax, I Squared, Comprehensive Logistics, Sensata and Packline Solutions Group."
+      ]
+    },
+    {
+      "id": "agency-colorjar",
+      "name": "ColorJar",
+      "heading": "4. ColorJar",
+      "cells": [
+        "4",
+        "ColorJar",
+        "2008",
+        "Chicago, US",
+        "$25,000+",
+        "Brand positioning, logo design, packaging and consumer experiences.",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 Chicago, US | <strong>Est. 2008</strong> | <strong>Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.8/5</strong> | Google: <strong>Not verified</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> Navy Pier, Lettuce Entertain You, Siskel Film Center, GoodBelly and HIDE + SEEK."
+      ]
+    },
+    {
+      "id": "agency-batesmeron-sweet-design",
+      "name": "BatesMeron Sweet Design",
+      "heading": "5. BatesMeron Sweet Design",
+      "cells": [
+        "5",
+        "BatesMeron Sweet Design",
+        "2005",
+        "Chicago, US",
+        "$10,000+",
+        "Brand strategy, naming, logo design and marketing materials.",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 Chicago, US | <strong>Est. 2005</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>5.0/5</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> GoNoodle, K12 Coalition, Sability, AXL Global Consulting and Pacific Plug &amp; Liner."
+      ]
+    },
+    {
+      "id": "agency-concentric-design",
+      "name": "Concentric Design",
+      "heading": "6. Concentric Design",
+      "cells": [
+        "6",
+        "Concentric Design",
+        "2006",
+        "Chicago and Boulder, Colorado, US",
+        "$1,000+ general projects; $5,000+ branding packages",
+        "Visual identity, web design, print and creative support.",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 Chicago and Boulder, Colorado, US | <strong>Est. 2006</strong> | <strong>Budget: $1,000+ general projects; $5,000+ branding packages</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>5.0/5</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> The Harris Poll, Hertz, Norwegian Cruise Line, Paylocity and Teach For America."
+      ]
+    },
+    {
+      "id": "agency-mabbly",
+      "name": "Mabbly",
+      "heading": "7. Mabbly",
+      "cells": [
+        "7",
+        "Mabbly",
+        "2013",
+        "Chicago, US",
+        "$25,000+",
+        "Brand positioning, identity and go-to-market marketing.",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 Chicago, US | <strong>Est. 2013</strong> | <strong>Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.5/5</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> Workiva, Griffith Foods, The Lactation Network, Verano and TIGER 21."
+      ]
+    },
+    {
+      "id": "agency-cultivate-brands",
+      "name": "Cultivate Brands",
+      "heading": "8. Cultivate Brands",
+      "cells": [
+        "8",
+        "Cultivate Brands",
+        "2005",
+        "Chicago and Bozeman, Montana, US",
+        "$25,000+",
+        "Brand research, naming, identity and digital experiences.",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 Chicago and Bozeman, Montana, US | <strong>Est. 2005</strong> | <strong>Budget: $25,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>4.9/5</strong> | Google: <strong>4.0/5</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> Ozinga, ProWood, Rademann Stone, MTM Trailer MFG and Illuma Search."
+      ]
+    },
+    {
+      "id": "agency-one-design-company",
+      "name": "One Design Company",
+      "heading": "9. One Design Company",
+      "cells": [
+        "9",
+        "One Design Company",
+        "2005",
+        "Chicago, US",
+        "$50,000+",
+        "Research-led branding, visual identity and website development.",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 Chicago, US | <strong>Est. 2005</strong> | <strong>Budget: $50,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>Not displayed</strong> | Google: <strong>5.0/5</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> HOLLY HUNT, Flexe, Quaise Energy, Merus and Field Notes."
+      ]
+    },
+    {
+      "id": "agency-pivot-design",
+      "name": "Pivot Design",
+      "heading": "10. Pivot Design",
+      "cells": [
+        "10",
+        "Pivot Design",
+        "1992",
+        "Chicago, US",
+        "$10,000+",
+        "Healthcare branding, corporate identity and integrated campaigns.",
+        "8.5/10"
+      ],
+      "facts": [
+        "📍 Chicago, US | <strong>Est. 1992</strong> | <strong>Budget: $10,000+</strong>",
+        "<strong>Ratings:</strong> Clutch: <strong>5.0/5</strong> | Google: <strong>4.1/5</strong> | DesignRush: <strong>Not displayed</strong>.",
+        "<strong>Clients:</strong> Astellas Oncology, Arcutis Biotherapeutics, Takeda, Lantheus and Akay Bioactives."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>Your situation</strong>",
+      "<strong>Best-fit agency</strong>",
+      "<strong>Why it fits</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best overall pick</strong>",
+        "<strong>Brand Vision</strong>",
+        "Our strongest overall balance of published starting budget, review performance and coordinated identity-to-website capabilities."
+      ],
+      [
+        "<strong>You need a new logo, complete identity and website together</strong>",
+        "<strong>Brand Vision</strong>",
+        "Its integrated branding and web design practice suits a brief that needs one consistent direction from strategy through implementation."
+      ],
+      [
+        "<strong>An acquisition or corporate restructuring has created a branding problem</strong>",
+        "<strong>MonogramGroup</strong>",
+        "Its private-equity and portfolio-company focus makes it a particularly relevant specialist."
+      ],
+      [
+        "<strong>You need a defined branding package around a $5,000 starting budget</strong>",
+        "<strong>Concentric Design</strong>",
+        "Its published entry branding package provides a clearer scope reference than a general agency project minimum."
+      ]
+    ]
+  }
+}

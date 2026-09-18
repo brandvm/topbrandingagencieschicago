@@ -1,0 +1,60 @@
+{
+  "site": "topbrandingagencieschicago",
+  "build": "local",
+  "tool": "Lighthouse",
+  "runsPerPage": 1,
+  "results": [
+    {
+      "route": "/blog/top-branding-agencies-chicago/",
+      "mode": "mobile",
+      "median": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "runs": [
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1651.6759499999998,
+            "cls": 0.0001783501509147431,
+            "tbt": 0
+          },
+          "failures": []
+        }
+      ]
+    },
+    {
+      "route": "/blog/top-branding-agencies-chicago/",
+      "mode": "desktop",
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 401.16655000000003,
+            "cls": 0.0005842562220908852,
+            "tbt": 0
+          },
+          "failures": []
+        }
+      ]
+    }
+  ]
+}
