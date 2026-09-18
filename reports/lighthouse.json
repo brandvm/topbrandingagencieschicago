@@ -8,7 +8,7 @@
       "route": "/",
       "mode": "mobile",
       "median": {
-        "performance": 97,
+        "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -16,42 +16,42 @@
       "runs": [
         {
           "scores": {
-            "performance": 97,
+            "performance": 98,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1728.3909,
-            "cls": 0.0918265731585002,
+            "lcp": 2102.5761,
+            "cls": 0.02135694305288562,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 97,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1652.0211000000002,
-            "cls": 0.0918265731585002,
+            "lcp": 2027.0875500000002,
+            "cls": 0.02135694305288562,
             "tbt": 0
           },
           "failures": []
         },
         {
           "scores": {
-            "performance": 97,
+            "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1651.9753500000002,
-            "cls": 0.0918265731585002,
+            "lcp": 2027.84955,
+            "cls": 0.02135694305288562,
             "tbt": 0
           },
           "failures": []
@@ -62,60 +62,6 @@
       "route": "/",
       "mode": "desktop",
       "median": {
-        "performance": 100,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 381.7502,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 382.08875,
-            "cls": 0.03914808510638298,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 381.932,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/",
-      "mode": "mobile",
-      "median": {
         "performance": 99,
         "accessibility": 100,
         "best-practices": 100,
@@ -130,8 +76,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1726.85745,
-            "cls": 0.06299431295574233,
+            "lcp": 482.8761,
+            "cls": 0.07197149567317515,
             "tbt": 0
           },
           "failures": []
@@ -144,7 +90,61 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1651.18155,
+            "lcp": 482.2092,
+            "cls": 0.07197149567317515,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 443.40705011615944,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        }
+      ]
+    },
+    {
+      "route": "/blog/",
+      "mode": "mobile",
+      "median": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1351.36275,
+            "cls": 0.01509120174415247,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1351.0167,
             "cls": 0,
             "tbt": 0
           },
@@ -152,14 +152,14 @@
         },
         {
           "scores": {
-            "performance": 99,
+            "performance": 100,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1651.41615,
-            "cls": 0.06299431295574233,
+            "lcp": 1351.0780499999998,
+            "cls": 0.01509120174415247,
             "tbt": 0
           },
           "failures": []
@@ -184,7 +184,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.31820000000005,
+            "lcp": 320.90045,
             "cls": 0,
             "tbt": 0
           },
@@ -198,7 +198,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.05719999999997,
+            "lcp": 320.85409999999996,
             "cls": 0,
             "tbt": 0
           },
@@ -212,116 +212,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 404.53749999999997,
-            "cls": 0.0012861610191752034,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/top-branding-agencies-chicago/",
-      "mode": "mobile",
-      "median": {
-        "performance": 99,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1801.36965,
-            "cls": 0.05091080058654721,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 98,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1951.5479999999998,
-            "cls": 0.05091080058654721,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1651.98135,
-            "cls": 0.05091080058654721,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/top-branding-agencies-chicago/",
-      "mode": "desktop",
-      "median": {
-        "performance": 100,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 440.98989546584323,
+            "lcp": 320.84765,
             "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 401.11435,
-            "cls": 0.008068329967822432,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 401.26059999999995,
-            "cls": 0.008068329967822432,
             "tbt": 0
           },
           "failures": []
@@ -330,6 +222,114 @@
     },
     {
       "route": "/blog/top-logo-design-agencies-chicago/",
+      "mode": "mobile",
+      "median": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "runs": [
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1801.9623,
+            "cls": 0.01886225843274139,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1952.96385,
+            "cls": 0.01886225843274139,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1877.78145,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        }
+      ]
+    },
+    {
+      "route": "/blog/top-logo-design-agencies-chicago/",
+      "mode": "desktop",
+      "median": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "runs": [
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 443.24480000000005,
+            "cls": 0.07860788494513032,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 443.06351872811206,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 483.21705,
+            "cls": 0.07860788494513032,
+            "tbt": 0
+          },
+          "failures": []
+        }
+      ]
+    },
+    {
+      "route": "/blog/top-corporate-branding-agencies-chicago/",
       "mode": "mobile",
       "median": {
         "performance": 98,
@@ -340,14 +340,28 @@
       "runs": [
         {
           "scores": {
+            "performance": 98,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1953.68865,
+            "cls": 0.03919177941906507,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
             "performance": 99,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1801.19235,
-            "cls": 0.05094146070931069,
+            "lcp": 1877.01795,
+            "cls": 0.03919177941906507,
             "tbt": 0
           },
           "failures": []
@@ -360,130 +374,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1951.3921500000001,
-            "cls": 0.05094146070931069,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 98,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1951.6403999999998,
-            "cls": 0.05094146070931069,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/top-logo-design-agencies-chicago/",
-      "mode": "desktop",
-      "median": {
-        "performance": 100,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 440.93195000000003,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 401.13340000000005,
-            "cls": 0.005115438528806584,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 401.09665,
-            "cls": 0.005115438528806584,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/top-corporate-branding-agencies-chicago/",
-      "mode": "mobile",
-      "median": {
-        "performance": 99,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 97,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1951.62225,
-            "cls": 0.07607007232735861,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1951.038,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1951.43355,
-            "cls": 0,
+            "lcp": 1960.9269,
+            "cls": 0.03919177941906507,
             "tbt": 0
           },
           "failures": []
@@ -508,8 +400,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 401.16445,
-            "cls": 0.01261857110804658,
+            "lcp": 482.04240000000004,
+            "cls": 0.05506900028821178,
             "tbt": 0
           },
           "failures": []
@@ -522,22 +414,22 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 401.33755,
-            "cls": 0.01261857110804658,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 440.9902623491889,
+            "lcp": 441.8225,
             "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 482.52465,
+            "cls": 0.05506900028821178,
             "tbt": 0
           },
           "failures": []

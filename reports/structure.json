@@ -3,45 +3,38 @@
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 5068,
+      "cssGzipBytes": 4379,
       "fontBytes": 67316,
       "javascriptGzipBytes": 15457,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 5068,
+      "cssGzipBytes": 4379,
       "fontBytes": 67316,
       "javascriptGzipBytes": 15457,
       "profiles": 0
     },
     {
-      "page": "/blog/top-branding-agencies-chicago/index.html",
-      "cssGzipBytes": 5068,
-      "fontBytes": 67316,
-      "javascriptGzipBytes": 15457,
-      "profiles": 10
-    },
-    {
       "page": "/blog/top-corporate-branding-agencies-chicago/index.html",
-      "cssGzipBytes": 5068,
+      "cssGzipBytes": 4379,
       "fontBytes": 67316,
       "javascriptGzipBytes": 15457,
       "profiles": 10
     },
     {
       "page": "/blog/top-logo-design-agencies-chicago/index.html",
-      "cssGzipBytes": 5068,
+      "cssGzipBytes": 4379,
       "fontBytes": 67316,
       "javascriptGzipBytes": 15457,
       "profiles": 10
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 5068,
+      "cssGzipBytes": 4379,
       "fontBytes": 67316,
       "javascriptGzipBytes": 15457,
-      "profiles": 0
+      "profiles": 10
     }
   ]
 }

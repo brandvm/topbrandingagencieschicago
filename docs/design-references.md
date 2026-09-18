@@ -1,7 +1,7 @@
-# Visual references and application
+# Directory references
 
-The screenshot-led [reference board](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/) documents all five requested editorial sites, BYQ Studio’s catalogue/Culture Exchange/Nothing/Reforma, and five Mobbin selections. Every screenshot has a source link and separate observation, adaptation and application notes.
+- [Top Brand Agencies](https://topbrandagencies.com/usa/): Use numbered agency names, concise fact groups and one clear next action. Keep geographic navigation limited to guides we actually have.
+- [Clutch · branding directory](https://clutch.co/agencies/branding): Make the complete ranking article the homepage. Place a company grid near the title, then comparison data, full profiles and methodology. Use direct links to the additional service guides.
+- [BYQ · template catalogue](https://www.byq.studio/templates): Use a clear type scale, repeatable spacing, consistent image ratios and compact topic labels. This reference board uses that gallery logic.
 
-[Open this publication’s style guide](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/) for the specific sources applied here, rendered Google Font specimens, colours, page layouts, component examples and review-interface design.
-
-The directory `design/` is staging-only. Original source-site assets and paid template code are not used in publication pages; attributed screenshot captures are research material.
+Condensed sans headlines, a cobalt banner, firm horizontal rules and a numbered company roster.

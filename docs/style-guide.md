@@ -1,9 +1,7 @@
-# Top Branding Agencies Chicago — visual style guide
+# topbrandingagencieschicago — directory design v3
 
-[Open the protected style guide](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/) · [Screenshot reference board](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/)
+[Style guide](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/) · [References](https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev/design/references/)
 
-Bold city publication: Condensed masthead · cobalt rank numbers · square geometry.
+Condensed sans headlines, a cobalt banner, firm horizontal rules and a numbered company roster.
 
-The staging-only `design/` directory owns the rendered guide, font specimens, original cover assets and attributed research screenshots. `scripts/postbuild.mjs` copies it into staging only and adds page-specific review anchors. Production builds exclude it.
-
-The guide is a proposed direction for review, not an assertion of design approval or WCAG certification. Original screenshot captures: 18 September 2026. Mobbin captures were downloaded from its supplied full-resolution image URLs; canonical source links are retained in the guide.
+Typography: Barlow Condensed + Inter Tight; self-hosted sans-serif Google Fonts. The main article is `/`; additional supplied pages appear directly in the navbar. `design/` is staging-only. Company identity assets and fallbacks are documented in `docs/agency-marks.json`.

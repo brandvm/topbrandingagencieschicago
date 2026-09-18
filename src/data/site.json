@@ -5,15 +5,32 @@
   "eyebrow": "A FIELD GUIDE TO CHICAGO BRANDING",
   "headline": "BIG IDEAS.CHICAGO MADE.",
   "intro": "Find the right creative partner in Chicago. Compare the work, the approach, and the investment\u2014then build a shortlist that makes sense for your business.",
-  "accent": "#244cdb",
-  "bg": "#f7f8fa",
-  "ink": "#202522",
-  "muted": "#565c56",
-  "line": "#c9ccc3",
-  "display": "libre-franklin",
-  "body": "dm-sans",
+  "accent": "#284cdb",
+  "bg": "#fafbfd",
+  "ink": "#14213c",
+  "muted": "#556078",
+  "line": "#d0d8e6",
+  "display": "barlow-condensed",
+  "body": "inter-tight",
   "style": "chicago",
   "description": "Compare Chicago branding, logo design, and corporate branding agencies through detailed guides, budgets, portfolios, and practical hiring advice.",
   "domain": "topbrandingagencieschicago.com",
-  "repo": "topbrandingagencieschicago"
+  "repo": "topbrandingagencieschicago",
+  "homeArticle": "top-branding-agencies-chicago",
+  "brief": "Chicago expertise. Clear comparisons. Your next creative partner.",
+  "direction": "Chicago\u2019s creative directory",
+  "navigation": [
+    {
+      "slug": "top-branding-agencies-chicago",
+      "label": "Branding"
+    },
+    {
+      "slug": "top-logo-design-agencies-chicago",
+      "label": "Logo design"
+    },
+    {
+      "slug": "top-corporate-branding-agencies-chicago",
+      "label": "Corporate branding"
+    }
+  ]
 }
