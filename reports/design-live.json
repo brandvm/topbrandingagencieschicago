@@ -1,0 +1,14 @@
+{
+  "site": "topbrandingagencieschicago",
+  "commit": "c12d9eeb479fcdd3b23c68e9ebc9a5f50d8f2461",
+  "pages": [
+    "/design/",
+    "/design/references/"
+  ],
+  "checks": [
+    "Unauthenticated design pages, CSS and fonts are protected",
+    "Authenticated design pages return 200 and noindex",
+    "Login preserves the style-guide return URL",
+    "Posted guide comment is visible in another session, isolated from homepage/reference board, then resolved"
+  ]
+}

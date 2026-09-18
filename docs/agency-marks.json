@@ -1,0 +1,166 @@
+[
+  {
+    "id": "agency-brand-vision",
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/our-work-portfolio",
+    "source": "https://cdn.prod.website-files.com/68b9f0236581de795cba8ec2/6a959f61b4c30e1af77118f3_Favicon.png",
+    "file": "agency-brand-vision.webp",
+    "width": 512,
+    "height": 512,
+    "sha256": "96a3a9580ea963730809e89fa1d874f60e96d89ba71dcd4555699a7c2dae9a13"
+  },
+  {
+    "id": "agency-vsa-partners",
+    "name": "VSA Partners",
+    "url": "https://www.vsapartners.com/work",
+    "source": "https://cdn.prod.website-files.com/67853eb4b679ea06a39ed516/67c5f90f958d1f9e245c5a4f_VSA%20Favicon.png",
+    "file": "agency-vsa-partners.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "d219c864bb6a4b1e09ff5ff0f416592512ea6d414b92b0575c853f23ee946582"
+  },
+  {
+    "id": "agency-colorjar",
+    "name": "ColorJar",
+    "url": "https://www.colorjar.com/work",
+    "source": "https://images.squarespace-cdn.com/content/v1/640a195d74b76816c9755174/ccfeda30-32e3-4b9f-89c0-70b96c4275a0/favicon.ico?format=100w",
+    "file": "agency-colorjar.webp",
+    "width": 100,
+    "height": 100,
+    "sha256": "92d5317e5bbed87ee9a3f1c74fe232aba026e275289e75787d3deba0c4658039"
+  },
+  {
+    "id": "agency-fifty-thousand-feet",
+    "name": "Fifty Thousand Feet",
+    "url": "https://fiftythousandfeet.com/work/",
+    "source": "https://cdn.sanity.io/images/8ddqpkj0/production/44ce427cefaddc6325616f2ed9c006b0ef931acb-512x512.png?w=180",
+    "file": "agency-fifty-thousand-feet.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "4406694d05702ebf2559066e9d7ac0332721cca641b634e3206a124c779312cc"
+  },
+  {
+    "id": "agency-pivot-design",
+    "name": "Pivot Design",
+    "url": "https://www.pivotdesign.com/work/",
+    "source": "https://www.pivotdesign.com/wp-content/uploads/cropped-pivot-favicon-1-320x320.png",
+    "file": "agency-pivot-design.webp",
+    "width": 320,
+    "height": 320,
+    "sha256": "777da81af0bd953fb21bb8eda140e59cfef49c2c80073abdbd3f7cf60e6aa9f2"
+  },
+  {
+    "id": "agency-mabbly",
+    "name": "Mabbly",
+    "url": "https://www.mabbly.com/work/",
+    "source": "https://www.mabbly.com/wp-content/uploads/2023/08/cropped-favicon-512x512-1-192x192.png",
+    "file": "agency-mabbly.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "5ce3b7f7babf339b8f3c693d766d46faa46cf4000c1c1be41710c8c517e8060e"
+  },
+  {
+    "id": "agency-design-b-b",
+    "name": "Design B&B",
+    "url": "https://www.designbandb.com/work",
+    "source": "https://static.wixstatic.com/shapes/08d715_37f6093853b84b6ead70d83065edc77e.svg",
+    "file": "agency-design-b-b.webp",
+    "width": 91,
+    "height": 65,
+    "sha256": "f4714d719c9c1abd25d6b2ae2af43715b812f3ec51c0b15f94ff5f131fe43b19"
+  },
+  {
+    "id": "agency-someoddpilot",
+    "name": "Someoddpilot",
+    "url": "https://someoddpilot.com/work/",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-conjure",
+    "name": "Conjure",
+    "url": "https://www.conjureinc.com/work",
+    "source": "https://cdn.prod.website-files.com/63c1c17aca87e7bdce7d8411/6478ea822320d849b3d4a1b8_CONJURE_WEBCLIP.png",
+    "file": "agency-conjure.webp",
+    "width": 256,
+    "height": 256,
+    "sha256": "531710afde8bcbf947db1f696dbb57b757d0f0c0e8a75c2f0e10339b4f81fa88"
+  },
+  {
+    "id": "agency-cultivate-brands",
+    "name": "Cultivate Brands",
+    "url": "https://cultivatebrands.com/case-studies/",
+    "source": "https://cultivatebrands.com/wp-content/uploads/2025/06/cropped-cropped-favicon_cultivate-192x192.png",
+    "file": "agency-cultivate-brands.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "4d24c917f71ebc1951b111ea478baf41839c491c971a3519939aebdeb5b65ed3"
+  },
+  {
+    "id": "agency-landor",
+    "name": "Landor",
+    "url": "https://landor.com/en/our-work/",
+    "source": "https://landor.com/favicon-32x32.png",
+    "file": "agency-landor.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "bdf341ea7ca6630dbdf152d7651bb72c75585d8fb6aedd69d5aee4ec9a16e8ff"
+  },
+  {
+    "id": "agency-batesmeron-sweet-design",
+    "name": "BatesMeron Sweet Design",
+    "url": "https://batesmeron.com/our-work/",
+    "source": "https://batesmeron.com/wp-content/uploads/cropped-bmsd_fav_icon-192x192.png",
+    "file": "agency-batesmeron-sweet-design.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "2c7c270be0c466901d79cc20f336dc5a29e512b535ed7f5e39c247e08e58c988"
+  },
+  {
+    "id": "agency-simple-truth",
+    "name": "Simple Truth",
+    "url": "https://yoursimpletruth.com/work/",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-artversion",
+    "name": "ArtVersion",
+    "url": "https://artversion.com/portfolio/",
+    "source": "https://i0.wp.com/artversion.com/wp-content/uploads/2024/07/artversion-favicon.png?fit=192%2C192&ssl=1",
+    "file": "agency-artversion.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "faa6bc957122dde1e2a06f7ec0b962468caf98d7e8041f47e3c0e7770a894059"
+  },
+  {
+    "id": "agency-concentric-design",
+    "name": "Concentric Design",
+    "url": "https://www.concentric.design/",
+    "source": "https://cdn.prod.website-files.com/648a395f2c0a23681a5873b0/66bbd4129e672dd806d7e744_concentric-design-webclip.png",
+    "file": "agency-concentric-design.webp",
+    "width": 256,
+    "height": 256,
+    "sha256": "14d73c6c378e382cf2a7ef2fc042af711df44edafaae87c57b7465a3505d4137"
+  },
+  {
+    "id": "agency-one-design-company",
+    "name": "One Design Company",
+    "url": "https://www.onedesigncompany.com/work",
+    "source": "https://www.onedesigncompany.com/dist/images/apple-touch-icon.png",
+    "file": "agency-one-design-company.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "8c4709bb831db661391485f5d012cc4eac6d68e724c46699d2b8209343bd29de"
+  },
+  {
+    "id": "agency-monogramgroup",
+    "name": "MonogramGroup",
+    "url": "https://www.monogramgroup.com/brand-case-studies/",
+    "source": "https://www.monogramgroup.com/wp-content/uploads/2025/03/MG_favicon_512x512_trans-300x300.png",
+    "file": "agency-monogramgroup.webp",
+    "width": 300,
+    "height": 300,
+    "sha256": "d3df019a2711656c728f649a2f3ff71bebc1dfd4fbf14363edcb7fa894989fed"
+  }
+]
