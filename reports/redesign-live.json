@@ -1,0 +1,13 @@
+{
+  "site": "topbrandingagencieschicago",
+  "url": "https://topbrandingagencieschicago-staging.hamoun-ce6.workers.dev",
+  "commit": "c8cab0eed7e67eb874b39f5edbfb722bd574502d",
+  "checks": [
+    "Unauthenticated pages, assets, and build metadata are protected",
+    "5 authenticated pages available with noindex",
+    "Login name is enforced server-side for comments and replies",
+    "Independent sessions read the same persisted thread",
+    "Page and branch isolation remains enforced",
+    "QA thread resolved after verification"
+  ]
+}
