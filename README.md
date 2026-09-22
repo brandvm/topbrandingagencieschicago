@@ -1,6 +1,6 @@
 # Top Branding Agencies Chicago
 
-An Astro agency directory for `topbrandingagencieschicago.com`. This public repository contains the editorial source; Cloudflare staging is password-protected and noindex. Production domains remain untouched. There is no GitHub Pages deployment.
+An Astro agency directory for `topbrandingagencieschicago.com`. This public repository contains the editorial source; Cloudflare staging is password-protected and noindex. The canonical production host is `www.topbrandingagencieschicago.com`; the apex redirects permanently to www. There is no GitHub Pages deployment.
 
 ## Edit locally
 
