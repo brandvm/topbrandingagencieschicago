@@ -1,0 +1,84 @@
+{
+  "agency-artversion": {
+    "name": "ArtVersion",
+    "url": "https://artversion.com/",
+    "clutch": "https://clutch.co/profile/artversion"
+  },
+  "agency-batesmeron-sweet-design": {
+    "name": "BatesMeron Sweet Design",
+    "url": "https://batesmeron.com/",
+    "clutch": "https://clutch.co/profile/batesmeron-sweet-design"
+  },
+  "agency-brand-vision": {
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/",
+    "clutch": "https://clutch.co/profile/brand-vision-1"
+  },
+  "agency-colorjar": {
+    "name": "ColorJar",
+    "url": "https://www.colorjar.com/",
+    "clutch": "https://clutch.co/profile/colorjar"
+  },
+  "agency-concentric-design": {
+    "name": "Concentric Design",
+    "url": "https://www.concentric.design/",
+    "clutch": "https://clutch.co/profile/concentric-design"
+  },
+  "agency-conjure": {
+    "name": "Conjure",
+    "url": "https://www.conjureinc.com/",
+    "clutch": "https://clutch.co/profile/conjure"
+  },
+  "agency-cultivate-brands": {
+    "name": "Cultivate Brands",
+    "url": "https://cultivatebrands.com/",
+    "clutch": "https://clutch.co/profile/cultivate-brands"
+  },
+  "agency-design-b-b": {
+    "name": "Design B&B",
+    "url": "https://www.designbandb.com/"
+  },
+  "agency-fifty-thousand-feet": {
+    "name": "Fifty Thousand Feet",
+    "url": "https://fiftythousandfeet.com/"
+  },
+  "agency-landor": {
+    "name": "Landor",
+    "url": "https://landor.com/"
+  },
+  "agency-mabbly": {
+    "name": "Mabbly",
+    "url": "https://www.mabbly.com/",
+    "clutch": "https://clutch.co/profile/mabbly"
+  },
+  "agency-monogramgroup": {
+    "name": "MonogramGroup",
+    "url": "https://www.monogramgroup.com/",
+    "clutch": "https://clutch.co/profile/monogramgroup"
+  },
+  "agency-one-design-company": {
+    "name": "One Design Company",
+    "url": "https://www.onedesigncompany.com/",
+    "clutch": "https://clutch.co/profile/one-design-company"
+  },
+  "agency-pivot-design": {
+    "name": "Pivot Design",
+    "url": "https://www.pivotdesign.com/",
+    "clutch": "https://clutch.co/profile/pivot-design"
+  },
+  "agency-simple-truth": {
+    "name": "Simple Truth",
+    "url": "https://yoursimpletruth.com/",
+    "clutch": "https://clutch.co/profile/simple-truth"
+  },
+  "agency-someoddpilot": {
+    "name": "Someoddpilot",
+    "url": "https://someoddpilot.com/",
+    "clutch": "https://clutch.co/profile/someoddpilot"
+  },
+  "agency-vsa-partners": {
+    "name": "VSA Partners",
+    "url": "https://www.vsapartners.com/",
+    "clutch": "https://clutch.co/profile/vsa-partners"
+  }
+}
