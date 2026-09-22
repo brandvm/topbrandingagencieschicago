@@ -1,0 +1,490 @@
+{
+  "site": "topbrandingagencieschicago",
+  "domain": "www.topbrandingagencieschicago.com",
+  "build": "2bfe5db541fda195d3ebab422f23b252d011968f",
+  "assetsOnly": true,
+  "reviewFeatures": false,
+  "crawlable": true,
+  "pages": [
+    {
+      "route": "/",
+      "title": "Top 10 Branding Agencies in Chicago (2026)",
+      "description": "Compare 10 Chicago branding agencies by services, project budgets, portfolios and client feedback. Build a shortlist for your launch or rebrand.",
+      "canonical": "https://www.topbrandingagencieschicago.com/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top 10 Branding Agencies in Chicago 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table"
+        },
+        {
+          "level": 2,
+          "text": "Full Agency Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "VSA Partners"
+        },
+        {
+          "level": 3,
+          "text": "Fifty Thousand Feet"
+        },
+        {
+          "level": 3,
+          "text": "MonogramGroup"
+        },
+        {
+          "level": 3,
+          "text": "ColorJar"
+        },
+        {
+          "level": 3,
+          "text": "Landor"
+        },
+        {
+          "level": 3,
+          "text": "Mabbly"
+        },
+        {
+          "level": 3,
+          "text": "Pivot Design"
+        },
+        {
+          "level": 3,
+          "text": "Design B&B"
+        },
+        {
+          "level": 3,
+          "text": "Someoddpilot"
+        },
+        {
+          "level": 2,
+          "text": "Quick Match"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess Branding Agencies"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. Which is the best branding agency in Chicago?"
+        },
+        {
+          "level": 3,
+          "text": "2. How much should I budget for a Chicago branding project?"
+        },
+        {
+          "level": 3,
+          "text": "3. What branding services should be included in a proposal?"
+        },
+        {
+          "level": 3,
+          "text": "4. Should I use the same agency for branding and web design?"
+        },
+        {
+          "level": 3,
+          "text": "5. When should I choose a specialist rather than a broader agency?"
+        },
+        {
+          "level": 3,
+          "text": "6. Do I need a full rebrand or a brand identity refresh?"
+        },
+        {
+          "level": 3,
+          "text": "7. What should I look for in an agency’s portfolio?"
+        },
+        {
+          "level": 3,
+          "text": "8. How much weight should I give Clutch, Google, and DesignRush ratings?"
+        },
+        {
+          "level": 3,
+          "text": "9. What should I prepare before contacting branding agencies?"
+        },
+        {
+          "level": 3,
+          "text": "10. What should happen after the new brand launches?"
+        },
+        {
+          "level": 2,
+          "text": "Explore another specialism."
+        },
+        {
+          "level": 3,
+          "text": "Top 10 Logo Design Agencies in Chicago (2026)"
+        },
+        {
+          "level": 3,
+          "text": "Top Corporate Branding Agencies in Chicago (2026)"
+        }
+      ]
+    },
+    {
+      "route": "/blog/",
+      "title": "Guides & comparisons | Top Branding Agencies Chicago",
+      "description": "Browse Top Branding Agencies Chicago's detailed agency comparisons, practical hiring advice, and project guides.",
+      "canonical": "https://www.topbrandingagencieschicago.com/blog/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Find the right agency."
+        },
+        {
+          "level": 2,
+          "text": "Top 10 Branding Agencies in Chicago (2026)"
+        },
+        {
+          "level": 2,
+          "text": "Top 10 Logo Design Agencies in Chicago (2026)"
+        },
+        {
+          "level": 2,
+          "text": "Top Corporate Branding Agencies in Chicago (2026)"
+        }
+      ]
+    },
+    {
+      "route": "/logo-design/",
+      "title": "Top 10 Logo Design Agencies in Chicago (2026)",
+      "description": "Compare 10 Chicago logo design agencies by creative focus, project budgets, portfolios and client feedback. Find a partner for your identity or rebrand.",
+      "canonical": "https://www.topbrandingagencieschicago.com/logo-design/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top 10 Logo Design Agencies in Chicago 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table"
+        },
+        {
+          "level": 2,
+          "text": "Full Agency Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "ArtVersion"
+        },
+        {
+          "level": 3,
+          "text": "MonogramGroup"
+        },
+        {
+          "level": 3,
+          "text": "ColorJar"
+        },
+        {
+          "level": 3,
+          "text": "BatesMeron Sweet Design"
+        },
+        {
+          "level": 3,
+          "text": "Concentric Design"
+        },
+        {
+          "level": 3,
+          "text": "Mabbly"
+        },
+        {
+          "level": 3,
+          "text": "Cultivate Brands"
+        },
+        {
+          "level": 3,
+          "text": "One Design Company"
+        },
+        {
+          "level": 3,
+          "text": "Pivot Design"
+        },
+        {
+          "level": 2,
+          "text": "Quick Match"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess Logo Design Agencies in Chicago"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. Which logo design agency in Chicago is best for a logo and website project?"
+        },
+        {
+          "level": 3,
+          "text": "2. How much should I budget for a logo design agency in Chicago?"
+        },
+        {
+          "level": 3,
+          "text": "3. Should I commission a logo or a complete visual identity?"
+        },
+        {
+          "level": 3,
+          "text": "4. How should I judge portfolios from design agencies in Chicago?"
+        },
+        {
+          "level": 3,
+          "text": "5. Can an agency refresh my brand without replacing the logo?"
+        },
+        {
+          "level": 3,
+          "text": "6. What files and guidelines should a logo design project include?"
+        },
+        {
+          "level": 3,
+          "text": "7. Should I choose a generalist design agency or an industry specialist?"
+        },
+        {
+          "level": 3,
+          "text": "8. How much weight should I give Clutch, Google and DesignRush ratings?"
+        },
+        {
+          "level": 3,
+          "text": "9. What should I clarify before accepting a proposal?"
+        },
+        {
+          "level": 3,
+          "text": "10. How long should a logo design or identity project take?"
+        },
+        {
+          "level": 2,
+          "text": "Explore another specialism."
+        },
+        {
+          "level": 3,
+          "text": "Top 10 Branding Agencies in Chicago (2026)"
+        },
+        {
+          "level": 3,
+          "text": "Top Corporate Branding Agencies in Chicago (2026)"
+        }
+      ]
+    },
+    {
+      "route": "/corporate/",
+      "title": "Top 10 Corporate Branding Agencies in Chicago (2026)",
+      "description": "Explore 10 Chicago corporate branding agencies. Compare strategy, identity expertise, project budgets and client work for your next brand initiative.",
+      "canonical": "https://www.topbrandingagencieschicago.com/corporate/",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Top Corporate Branding Agencies in Chicago 2026 guide"
+        },
+        {
+          "level": 2,
+          "text": "In this guide"
+        },
+        {
+          "level": 2,
+          "text": "Overview Table"
+        },
+        {
+          "level": 2,
+          "text": "Full Agency Profiles"
+        },
+        {
+          "level": 3,
+          "text": "Brand Vision"
+        },
+        {
+          "level": 3,
+          "text": "MonogramGroup"
+        },
+        {
+          "level": 3,
+          "text": "VSA Partners"
+        },
+        {
+          "level": 3,
+          "text": "Mabbly"
+        },
+        {
+          "level": 3,
+          "text": "BatesMeron Sweet Design"
+        },
+        {
+          "level": 3,
+          "text": "Conjure"
+        },
+        {
+          "level": 3,
+          "text": "Cultivate Brands"
+        },
+        {
+          "level": 3,
+          "text": "ColorJar"
+        },
+        {
+          "level": 3,
+          "text": "Pivot Design"
+        },
+        {
+          "level": 3,
+          "text": "Simple Truth"
+        },
+        {
+          "level": 2,
+          "text": "Quick Match"
+        },
+        {
+          "level": 2,
+          "text": "Methodology: How We Assess Corporate Branding Agencies"
+        },
+        {
+          "level": 3,
+          "text": "1. Value & Return on Investment"
+        },
+        {
+          "level": 3,
+          "text": "2. Proven Client Satisfaction"
+        },
+        {
+          "level": 3,
+          "text": "3. Experience and Work Quality"
+        },
+        {
+          "level": 3,
+          "text": "4. Team Depth & In-House Capability"
+        },
+        {
+          "level": 3,
+          "text": "5. Process & Technical Standards"
+        },
+        {
+          "level": 3,
+          "text": "6. Client Outcomes & Longevity"
+        },
+        {
+          "level": 2,
+          "text": "FAQ"
+        },
+        {
+          "level": 3,
+          "text": "1. What is the best corporate branding agency in Chicago?"
+        },
+        {
+          "level": 3,
+          "text": "2. How much do corporate branding agencies in Chicago charge?"
+        },
+        {
+          "level": 3,
+          "text": "3. Does an agency’s minimum budget cover a complete rebrand?"
+        },
+        {
+          "level": 3,
+          "text": "4. What should a corporate branding proposal include?"
+        },
+        {
+          "level": 3,
+          "text": "5. Should one branding agency handle both our rebrand and website?"
+        },
+        {
+          "level": 3,
+          "text": "6. Do we need a branding agency with experience in our industry?"
+        },
+        {
+          "level": 3,
+          "text": "7. How should we compare branding agencies with similar portfolios?"
+        },
+        {
+          "level": 3,
+          "text": "8. How much weight should we give online agency ratings?"
+        },
+        {
+          "level": 3,
+          "text": "9. What should our team prepare before contacting agencies?"
+        },
+        {
+          "level": 3,
+          "text": "10. How should we judge whether a corporate rebrand has worked?"
+        },
+        {
+          "level": 2,
+          "text": "Explore another specialism."
+        },
+        {
+          "level": 3,
+          "text": "Top 10 Branding Agencies in Chicago (2026)"
+        },
+        {
+          "level": 3,
+          "text": "Top 10 Logo Design Agencies in Chicago (2026)"
+        }
+      ]
+    }
+  ]
+}
