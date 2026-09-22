@@ -1,7 +1,7 @@
 {
   "site": "topbrandingagencieschicago",
-  "domain": "topbrandingagencieschicago.com",
-  "build": "8566fb73336bc9c562d8e6d8e9660e22d8728dc0",
+  "domain": "www.topbrandingagencieschicago.com",
+  "build": "99254880b9756f8756698f8e6f678667b73beefe",
   "assetsOnly": true,
   "reviewFeatures": false,
   "crawlable": true,
@@ -10,7 +10,7 @@
       "route": "/",
       "title": "Top 10 Branding Agencies in Chicago (2026)",
       "description": "Compare 10 Chicago branding agencies by services, project budgets, portfolios and client feedback. Build a shortlist for your launch or rebrand.",
-      "canonical": "https://topbrandingagencieschicago.com/",
+      "canonical": "https://www.topbrandingagencieschicago.com/",
       "headings": [
         {
           "level": 1,
@@ -162,7 +162,7 @@
       "route": "/blog/",
       "title": "Guides & comparisons | Top Branding Agencies Chicago",
       "description": "Browse Top Branding Agencies Chicago's detailed agency comparisons, practical hiring advice, and project guides.",
-      "canonical": "https://topbrandingagencieschicago.com/blog/",
+      "canonical": "https://www.topbrandingagencieschicago.com/blog/",
       "headings": [
         {
           "level": 1,
@@ -186,7 +186,7 @@
       "route": "/logo-design/",
       "title": "Top 10 Logo Design Agencies in Chicago (2026)",
       "description": "Compare 10 Chicago logo design agencies by creative focus, project budgets, portfolios and client feedback. Find a partner for your identity or rebrand.",
-      "canonical": "https://topbrandingagencieschicago.com/logo-design/",
+      "canonical": "https://www.topbrandingagencieschicago.com/logo-design/",
       "headings": [
         {
           "level": 1,
@@ -338,7 +338,7 @@
       "route": "/corporate/",
       "title": "Top 10 Corporate Branding Agencies in Chicago (2026)",
       "description": "Explore 10 Chicago corporate branding agencies. Compare strategy, identity expertise, project budgets and client work for your next brand initiative.",
-      "canonical": "https://topbrandingagencieschicago.com/corporate/",
+      "canonical": "https://www.topbrandingagencieschicago.com/corporate/",
       "headings": [
         {
           "level": 1,
